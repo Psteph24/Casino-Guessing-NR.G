@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\pstep\source\repos\CasinoNGG\CasinoNGG\src\Main.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pstep\source\repos\CasinoNGG\CasinoNGG\src\Main.cpp(28,11): warning C4129: 'Y': unrecognized character escape sequence
+  CasinoNGG.vcxproj -> C:\Users\pstep\source\repos\CasinoNGG\x64\Debug\CasinoNGG.exe
